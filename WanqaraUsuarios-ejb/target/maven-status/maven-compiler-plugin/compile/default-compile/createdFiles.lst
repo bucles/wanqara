@@ -1,0 +1,5 @@
+com\usuarios\NewSessionBean.class
+com\wanqarausuarios\generico\Generico.class
+com\wanqarausuarios\dao\UsuarioDao.class
+com\wanqarausuarios\modelo\Usuario.class
+com\wanqarausuarios\modelo\Usuario_.class
